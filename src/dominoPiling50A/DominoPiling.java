@@ -1,10 +1,9 @@
 package dominoPiling50A;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class DominoPiling {
-    public static void main(String[] args)  {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int m = scanner.nextInt();
